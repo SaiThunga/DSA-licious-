@@ -1,9 +1,18 @@
-Class Memory_AlLocation {
+package Basics;
 
-public static void main(String[] args) {
-    int a=10;
-    int b=20;
-    int c= a+b;
+class Memory_Allocation{
+
+    public static void main(String[] args) {
+        int a=10;
+        int b=20;
+        int c=a+b;
+
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+    }
+}
+
 
     //Here all the variables a,b,& c  are stored in stack
     //value inside a,b,& c are stored in heap
@@ -21,7 +30,3 @@ public static void main(String[] args) {
 //        shared across all threads.
 //        Memory must be managed by the garbage collector.
 //        Slower than stack memory but holds data for longer lifetimes.
-
-
-}
-        }

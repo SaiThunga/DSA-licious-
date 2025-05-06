@@ -1,0 +1,134 @@
+Basic Concepts:
+    Variables and Data Types
+    Operators
+    Control Flow:
+        If-else Statements
+        Switch Case
+    Loops :
+        For Loop
+        While Loop
+        Do-While Loop
+    Methods :
+        Method Declaratiop
+        Method Overloading
+        Recursion
+
+     Arrays:
+         Declaring Arrays
+         Accessing Arrays
+         Returning Arrays from Methods
+         Printing Arrays
+
+     Intermediate Concepts:
+     Object-Oriented Programming (OOP):
+
+     Classes and Objects
+
+     Encapsulation
+
+     Inheritance
+
+     Polymorphism
+
+     Abstraction
+
+     Constructors
+
+     Method Overloading and Overriding
+
+     Exception Handling:
+
+     Try-Catch Block
+
+     Throw and Throws
+
+     Custom Exceptions
+
+     Switch Case (Advanced Problems):
+
+     Using Switch Case for different scenarios
+
+     Reading Input:
+
+     Reading input for int, String, and char
+
+     next(), nextInt(), charAt(), etc.
+
+     String Handling:
+
+     String Manipulation
+
+     String Comparison
+
+     Advanced Concepts:
+     Collections Framework:
+
+     List (ArrayList, LinkedList)
+
+     Set (HashSet, TreeSet)
+
+     Map (HashMap, TreeMap)
+
+     Queue (LinkedList, PriorityQueue)
+
+     File Handling:
+
+     Reading Files (FileReader, BufferedReader)
+
+     Writing Files (FileWriter, BufferedWriter)
+
+     Threads and Concurrency:
+
+     Thread Creation (Runnable Interface, Thread Class)
+
+     Thread Synchronization
+
+     Executor Service
+
+     Lambda Expressions and Functional Interfaces:
+
+     Syntax of Lambda Expressions
+
+     Functional Interfaces (Runnable, Callable)
+
+     Streams API
+
+     Java 8 Features:
+
+     Streams API
+
+     Optional Class
+
+     Default Methods
+
+     New Date/Time API
+
+     Java Design Patterns:
+
+     Singleton Pattern
+
+     Factory Pattern
+
+     Observer Pattern
+
+     Decorator Pattern
+
+     Java-Specific Features and Utilities:
+     BigInteger and Math Operations
+
+     Java Packages and Imports
+
+     Access Modifiers (public, private, protected, default)
+
+     Nested Classes (Static Nested Classes, Inner Classes, Local Classes)
+
+     Extra Topics (Optional but Advanced):
+     Garbage Collection
+
+     Reflection in Java
+
+     Serialization and Deserialization
+
+     Network Programming (Sockets, HTTP Requests)
+
+     JDBC (Java Database Connectivity)
