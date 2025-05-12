@@ -1,6 +1,5 @@
-package Basics;
+package Basic_problems;
 
-import java.security.PublicKey;
 import java.util.Scanner;
 import java.util.Arrays;
 

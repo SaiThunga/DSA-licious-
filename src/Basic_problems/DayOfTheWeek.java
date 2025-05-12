@@ -1,4 +1,4 @@
-package Basics;
+package Basic_problems;
 //Write a program that takes an integer (1-7) as input and prints the corresponding day of
 // the week using the switch-case statement.
 

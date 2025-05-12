@@ -1,4 +1,4 @@
-package Basics;
+package Basic_problems;
 
 public class Swap {
     public static void main(String[] args) {
