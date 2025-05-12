@@ -1,4 +1,4 @@
-package Basics;
+package Basic_problems;
 
 public class PrimitiveVsObjects {
 

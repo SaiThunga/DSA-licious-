@@ -7,6 +7,8 @@ public class Area {
         System.out.println("Area of rectangle : "+area(l,b));
         System.out.println("Area of circle : "+area(r));
     }
+    //method Overloading
+
     static int area(int l){
         int areaOfSquare=l*l;
         return areaOfSquare;

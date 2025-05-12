@@ -1,6 +1,4 @@
-package Basics;
-
-import javax.xml.transform.Source;
+package Basic_problems;
 
 public class ShadowingInJava {
     static int a=10;
